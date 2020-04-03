@@ -1,6 +1,17 @@
+# Title
+> summary
+
+
 # Natural Language Toolkit for Boyig (BoNLTK)
 BoNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Boyig (TIbetan) language.
 
+## Install
+
+`pip install bonltk`
+
+## How to use
+
+Comming soon
 
 ## Todo:
  - Tokenizers:
@@ -14,5 +25,5 @@ BoNLTK aims to provide out of the box support for various NLP tasks that an appl
     - [ ] Huggingface [transformers](https://github.com/huggingface/transformers)
     - [ ] UMLFit Language model with [fastai](https://forums.fast.ai/t/language-model-zoo-gorilla/14623)
 
-### links:
+### Resrouce links:
 - [UMLFit for sequence tagging](https://forums.fast.ai/t/ulmfit-for-sequence-tagging/20328)
