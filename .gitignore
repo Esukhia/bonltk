@@ -1,5 +1,8 @@
 .bonltk/
 data/
+*.pickled
+*.yaml
+
 *.bak
 .gitattributes
 .last_checked
