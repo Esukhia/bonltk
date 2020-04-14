@@ -1,5 +1,6 @@
 {
   "bonltk": {
-    "Overview": "/"
+    "Overview": "/",
+    "Text similarity algorithms": "/text_similarity"
   }
 }
