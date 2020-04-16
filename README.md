@@ -1,5 +1,5 @@
-# Natural Language Toolkit for Boyig (BoNLTK)
-> BoNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Boyig (TIbetan) language.
+# Natural Language Toolkit for Bokey (BoNLTK)
+> BoNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Bokey, Tibetan language.
 
 
 ## Install
