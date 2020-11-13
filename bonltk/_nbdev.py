@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"get_sentence_encoding": "01_text_similarity.ipynb",
+         "cos_sim": "01_text_similarity.ipynb",
+         "get_sentence_similarity": "01_text_similarity.ipynb"}
 
-modules = []
+modules = ["text_sim.py"]
 
 doc_url = "https://Esukhia.github.io/bonltk//bonltk/"
 
