@@ -1,6 +1,7 @@
 # Natural Language Toolkit for Bokey (BoNLTK)
 > BoNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Bokey, Tibetan language.
 
+[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/0)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/0)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/1)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/1)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/2)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/2)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/3)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/3)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/4)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/4)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/5)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/5)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/6)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/6)[![](https://sourcerer.io/fame/10zinten/10zinten/bonltk/images/7)](https://sourcerer.io/fame/10zinten/10zinten/bonltk/links/7)
 
 ## Install
 
