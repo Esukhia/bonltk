@@ -1,6 +1,10 @@
 {
   "bonltk": {
     "Overview": "/",
-    "Text similarity algorithms": "/text_similarity"
+    "Text similarity algorithms": "text_similarity.html",
+    "Text Quality": "text_quality.html",
+    "Download the dataset": "esukhia_dergey_kangyur_and tengyur.html",
+    "Setup": "sentence_piece.html",
+    "Title": "YouTokenToMe.html"
   }
 }

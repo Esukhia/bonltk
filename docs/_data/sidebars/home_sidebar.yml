@@ -11,7 +11,19 @@ entries:
       url: /
     - output: web,pdf
       title: Text similarity algorithms
-      url: /text_similarity
+      url: text_similarity.html
+    - output: web,pdf
+      title: Text Quality
+      url: text_quality.html
+    - output: web,pdf
+      title: Download the dataset
+      url: esukhia_dergey_kangyur_and tengyur.html
+    - output: web,pdf
+      title: Setup
+      url: sentence_piece.html
+    - output: web,pdf
+      title: Title
+      url: YouTokenToMe.html
     output: web
     title: bonltk
   output: web

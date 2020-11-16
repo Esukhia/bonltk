@@ -4,9 +4,11 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"get_sentence_encoding": "01_text_similarity.ipynb",
          "cos_sim": "01_text_similarity.ipynb",
-         "get_sentence_similarity": "01_text_similarity.ipynb"}
+         "get_sentence_similarity": "01_text_similarity.ipynb",
+         "non_words_ratio": "02_text_quality.ipynb"}
 
-modules = ["text_sim.py"]
+modules = ["text_sim.py",
+           "text_quality.py"]
 
 doc_url = "https://Esukhia.github.io/bonltk//bonltk/"
 
